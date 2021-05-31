@@ -1,0 +1,22 @@
+.nav{
+    font-size: 24px;
+    font-weight: 700;
+    position: fixed;
+    width: 900px;
+    top: 0;
+    z-index: 1;
+    display: inline-block;
+    height: 27px;    
+    background: grey;
+}
+
+
+.nav_link{
+    display: inline-block;
+    margin: 0 10px;
+    text-transform: uppercase;
+}
+
+.nav_href{
+    color: aliceblue;
+}
